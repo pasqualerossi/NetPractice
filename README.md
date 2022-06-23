@@ -11,3 +11,6 @@
 - [Level 8](https://github.com/pasqualerossi/NetPractice/tree/main/8th%20Level)
 - [Level 9](https://github.com/pasqualerossi/NetPractice/tree/main/9th%20Level)
 - [Level 10](https://github.com/pasqualerossi/NetPractice/tree/main/Last%20Level%20-%2010th%20Level)
+
+# NetPractice Guide
+If you want to know more into depth about this NetPractice Project including **IP Addresses, Subnet Masks, Switches and Routers**, click on this link - https://github.com/ImOphen/netpractice
