@@ -3,5 +3,5 @@
 ### Router R1, Client A, Client C and Router R2
 - Exact same number.
 
-### Interface R11,12,13,22,A1 & C1 Mask
+### Interface R11, R12, R13, R22, Interface A1 & C1 Mask
 - All the exact same number. 
