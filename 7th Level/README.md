@@ -5,3 +5,9 @@
 
 ### Interface R11, R12, R13, R22, Interface A1 & C1 Mask
 - All the exact same number. 
+
+or 
+
+### Interface R22
+- change from .252 down to .2 in fourth column where x is 101.198.14.(X)
+  - 101.198.14.252 to 101.198.14.2
