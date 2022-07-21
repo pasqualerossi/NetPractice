@@ -12,6 +12,8 @@ This means there are 2^3 networks and for each network, each has 2^5-2 available
 
 For client D the submask is /30, this is short hand for 255.255.255.252 or [11111111].[11111111].[11111111].[11111100] to indicate the amount of 1's in binary form.
 
+Regarding submasks, it's more convenient to set local routes to have the same submask. both client A and client B to have submask: 255.255.255.224
+
 ### Interface A1 IP
 - Same numbers as Interface B1, except the last number has to be different. 
 
