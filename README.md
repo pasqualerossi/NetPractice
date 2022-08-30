@@ -1,5 +1,10 @@
-# My NetPractice
-10 Level Networking Exercise - click on each level to view the .JSON file and image. 
+# NetPractice
+
+In Collaboration with [Lachlan Mann](https://github.com/42-LMann).
+
+# 10 Level Networking Exercise 
+
+click on each level to view the .JSON file and image. 
 
 - [Level 1](https://github.com/pasqualerossi/NetPractice/tree/main/1st%20Level)
 - [Level 2](https://github.com/pasqualerossi/NetPractice/tree/main/2nd%20Level)
