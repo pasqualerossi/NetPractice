@@ -24,4 +24,6 @@ If you want to know more into depth about this NetPractice Project including:
 - Switches 
 - Routers 
 
-Click on this link - https://github.com/ImOphen/netpractice
+Click on these links 
+- https://medium.com/@imyzf/netpractice-2d2b39b6cf0a
+- https://github.com/ImOphen/netpractice
