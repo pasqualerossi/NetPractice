@@ -1,6 +1,6 @@
 # NetPractice
 
-In Collaboration with [Lachlan Mann](https://github.com/42-LMann).
+This GitHub Repo is in collaboration with [Lachlan Mann](https://github.com/42-LMann).
 
 # 10 Level Networking Exercise 
 
@@ -19,6 +19,3 @@ click on each level to view the .JSON file and image.
 
 # NetPractice Information
 If you want to know more into depth about this NetPractice Project including **IP Addresses, Subnet Masks, Switches and Routers**, click on this link - https://github.com/ImOphen/netpractice
-
-# My NetPractice Grade
-<img width="1309" alt="Screen Shot 2022-06-24 at 8 57 23 PM" src="https://user-images.githubusercontent.com/58959408/175891868-a20c28bf-e62b-4bc0-949c-d18d888ce917.png">
