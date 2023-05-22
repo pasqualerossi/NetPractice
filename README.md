@@ -18,4 +18,10 @@ click on each level to view the .JSON file and image.
 - [Level 10](https://github.com/pasqualerossi/NetPractice/tree/main/Last%20Level%20-%2010th%20Level)
 
 # NetPractice Information
-If you want to know more into depth about this NetPractice Project including **IP Addresses, Subnet Masks, Switches and Routers**, click on this link - https://github.com/ImOphen/netpractice
+If you want to know more into depth about this NetPractice Project including:
+- IP Addresses
+- Subnet Masks
+- Switches 
+- Routers 
+
+Click on this link - https://github.com/ImOphen/netpractice
